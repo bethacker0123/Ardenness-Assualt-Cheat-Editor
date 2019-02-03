@@ -1,0 +1,9 @@
+﻿<Application x:Class="Ardenness_Assault_Save_Game_Editor.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Ardenness_Assault_Save_Game_Editor"
+             StartupUri="GUI/View/MainWindowView.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

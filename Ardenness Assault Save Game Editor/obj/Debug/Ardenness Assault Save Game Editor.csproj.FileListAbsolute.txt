@@ -1,0 +1,23 @@
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\bin\Debug\Ardenness Assault Save Game Editor.exe.config
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\bin\Debug\Ardenness Assault Save Game Editor.exe
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\bin\Debug\Ardenness Assault Save Game Editor.pdb
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\GUI\Themes\BureauBlack.baml
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\GUI\Themes\BureauBlue.baml
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\GUI\Themes\ExpressionDark.baml
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\GUI\Themes\ExpressionLight.baml
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\GUI\Themes\ShinyBlue.baml
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\GUI\Themes\ShinyRed.baml
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\GUI\Themes\WhistlerBlue.baml
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\GUI\View\MainWindowView.g.cs
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\App.g.cs
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\Ardenness Assault Save Game Editor_MarkupCompile.cache
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\Ardenness Assault Save Game Editor_MarkupCompile.lref
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\GUI\View\MainWindowView.baml
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\Ardenness Assault Save Game Editor.g.resources
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\Ardenness_Assault_Save_Game_Editor.Properties.Resources.resources
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\Ardenness Assault Save Game Editor.csproj.GenerateResource.cache
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\Ardenness Assault Save Game Editor.csproj.CoreCompileInputs.cache
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\Ardenness Assault Save Game Editor.exe
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\Ardenness Assault Save Game Editor.pdb
+C:\Users\betha\source\repos\Ardenness Assault Save Game Editor\Ardenness Assault Save Game Editor\obj\Debug\Ardenness Assault Save Game Editor.csprojAssemblyReference.cache
